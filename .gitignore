@@ -35,3 +35,14 @@ copy/greetingCopy.txt
 greeting.html
 wiki/FitNesseRoot/files/httpPostExamples
 wiki/FitNesseRoot/files/galenExamples
+wiki/FitNesseRoot/files/galen-reports
+wiki/FitNesseRoot/content.txt
+wiki/FitNesseRoot/PlugIns
+wiki/FitNesseRoot/properties
+wiki/FitNesseRoot/PageFooter
+wiki/FitNesseRoot/PageHeader
+wiki/FitNesseRoot/TemplateLibrary
+wiki/FitNesseRoot/Hsac*
+properties.xml
+wiki/plugins.properties
+wiki/FitNesseRoot/.gitattributes

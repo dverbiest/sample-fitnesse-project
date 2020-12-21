@@ -1,0 +1,16 @@
+!*> Documentation
+'''Readme'''
+ * [[A quick intro and how-to][ReadMe]] ''(how to run tests, read reports)''
+'''Hsac fixtures'''
+ * [[Examples][.HsacExamples]]
+ * [[Acceptance Tests][.HsacAcceptanceTests]]
+'''Fitnesse'''
+ * [[User Guide][.FitNesse.UserGuide]]
+ * [[Acceptance Tests][.FitNesse.SuiteAcceptanceTests]]
+!c !note [[FitNesse][.FitNesse]] - [[Release ${FITNESSE_VERSION}][.FitNesse.ReleaseNotes]]
+*!
+
+!2 [[MyTestSuite][.MyTestSuite]]
+
+
+[[Re Run Last Failures][.ReRunLastFailures]]

@@ -1,0 +1,45 @@
+a {
+  color: #1e72b9;
+}
+td.ignore, td.error, td.fail, td.pass {
+  text-align: center;
+}
+#tooltip-div {
+    padding: 0px;
+    margin: 0 0 10px;
+    background-color: transparent;
+}
+#tooltip-text {
+  font-weight: 200;
+}
+#tooltip-text:before {
+  top: 3px;
+  background-image: url('hint.svg');
+  background-size: 16px 16px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  content:"";
+}
+article tr:not([class^='slim']):not([class^='hash_']):nth-child(2n+3),
+tr[class^='slim']:nth-child(odd) {
+  background-color: transparent !important;
+}
+article tr:not([class^='slim']):not([class^='hash_']):nth-child(even),
+tr[class^='slim']:nth-child(even) {
+  background-color: transparent !important;
+}
+footer {
+  background-image: url('specialisterren-light.svg');
+  background-size: contain;
+}
+.navbar-brand {
+  background-image: url('fitnesse-logo.png');
+  background-size: contain;
+}
+button.prefsbutton {
+  border: 2px solid transparent !important;
+}
+.navbar-form {
+  padding: 0 12px 0 0;
+}
