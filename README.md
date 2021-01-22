@@ -1,3 +1,4 @@
+## sample fitnesse project
 This testing project uses the FitNesse baseline provided by [hsac-fitnesse-fixtures](https://github.com/fhoeben/hsac-fitnesse-fixtures).
 It offers a web environment (wiki) to define and run tests. It is extended with [Praegus' Toolchain plugin](https://gitlab.com/praegus/toolchain-fixtures/toolchain-fitnesse-plugin), improving the vanilla wiki.
 
